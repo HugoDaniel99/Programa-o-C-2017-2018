@@ -2,6 +2,7 @@
 #define LIVRO_H
 #include <iostream>
 #include <vector>
+#include <string>
 #include "DATE1.h"
 #include "autor.h"
 
