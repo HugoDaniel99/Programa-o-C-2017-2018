@@ -1,6 +1,7 @@
 #ifndef AUTOR_H
 #define AUTOR_H
 #include "DATE1.h"
+#include <string>
 using namespace std;
 
 class Autor{
